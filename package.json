@@ -2,7 +2,7 @@
   "name": "chartjs-plugin-doughnut-target-line",
   "version": "1.0.0",
   "description": "Add a target line to a doughnut chart",
-  "main": "index.js",
+  "main": "plugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
